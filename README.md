@@ -136,19 +136,6 @@ dotnet run
 - **MVC Admin**: http://localhost:5002 (or configured port) 
 - **Web API**: http://localhost:5000 (or configured port)
 
-## Running Tests
-
-### Unit Tests:
-```bash
-dotnet test
-```
-
-### Specific Test Project:
-```bash
-cd YourTestProject
-dotnet test
-```
-
 ## Project Structure
 
 ```
@@ -210,12 +197,8 @@ git commit -m "Add: description of your changes"
 ## Issues & Support
 
 - For bug reports, use GitHub Issues with detailed descriptions
-- Include steps to reproduce, expected vs actual behavior
+- Include steps to reproduce, expected vs actual behaviour
 - Provide environment details (.NET version, MySQL version, etc.)
-
-## License
-
-This project is licensed under the [Specify License - MIT/Proprietary]. Please add a LICENSE file to the repository root.
 
 ## Contact
 
